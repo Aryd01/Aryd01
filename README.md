@@ -24,8 +24,11 @@ Made with HTML, CSS and FLASK.
 
 ![homepage](https://github.com/Aryd01/Attendance_sheet/blob/master/results/homepage.JPG)
 
+## Home Page
+
 ![register](https://github.com/Aryd01/Attendance_sheet/blob/master/results/Register.JPG)
 
+## Register Page
 
 ## [2. Library Management :-]([github.com/Aryd01/Library_management])
 Made with HTML,CSS,FLASK and Frappe API. Use of CRUD operations on sqlite database
@@ -47,6 +50,12 @@ Made with HTML,CSS,FLASK and Frappe API. Use of CRUD operations on sqlite databa
 
 ![homepage](https://github.com/Aryd01/Library_management/blob/master/images/homepage.PNG)
 
+## Home Page
+
 ![issuebook](https://github.com/Aryd01/Library_management/blob/master/images/issuebook.PNG)
+
+## Issue Book
+
+To see the full version click on the link in title . 
 
 Contact :- Arscien04@gmail.com
