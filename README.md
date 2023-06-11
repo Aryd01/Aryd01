@@ -1,4 +1,6 @@
 
+Note :- If using Jio sim or Jio fiber use different ISP or use a VPN as photos donot render on Jio network it is a known issue.
+
 👋 Hi there! My name is Arti Yadav I'm a full-stack developer 🚀 passionate about crafting elegant and efficient solutions ✨ to bring ideas to life 💡.
 
 # My Projects
